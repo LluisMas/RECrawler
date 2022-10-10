@@ -17,3 +17,8 @@ Supported websites:
 TODO
 - Alerting
 - Stats
+- Solvia
+- Casaktua
+- Bankia
+- Aliseda
+- Servihabitat
